@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html, body, canvas {
+    width: 100%;
+    height: 100%;
+}
+body {
+    background-color: #f90;
+    overflow: hidden;
+}
+#game {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}

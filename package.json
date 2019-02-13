@@ -1,0 +1,26 @@
+{
+  "name": "funky",
+  "version": "1.0.0",
+  "description": "A simple platformer with a twist.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Couchfriends/funky.git"
+  },
+  "author": "Couchfriends",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Couchfriends/funky/issues"
+  },
+  "homepage": "https://github.com/Couchfriends/funky#readme",
+  "dependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jshint": "^2.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "matter-js": "^0.14.2"
+  }
+}
